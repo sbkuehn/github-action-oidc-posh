@@ -21,4 +21,4 @@ jobs:
           az account show
           az group list
           pwd
-# adding text
+# adding text testing
