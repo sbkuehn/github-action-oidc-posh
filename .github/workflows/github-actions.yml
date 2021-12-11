@@ -23,4 +23,4 @@ jobs:
              inlineScript: |
                Get-AzResourceGroup | Select Location
              azPSVersion: "latest"
-             # testing
+             # testing commit.
