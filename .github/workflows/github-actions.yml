@@ -21,6 +21,6 @@ jobs:
           uses: azure/powershell@v1
           with:
              inlineScript: |
-               Get-AzResourceGroup | Select Name
+               Get-AzResourceGroup | Select ResourceGroupName
              azPSVersion: "latest"
              # testing commit.
