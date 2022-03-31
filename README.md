@@ -1,1 +1,1 @@
-# gh-actions-oidc
+# GitHub Actions - Workload Identity Federation - OIDC
