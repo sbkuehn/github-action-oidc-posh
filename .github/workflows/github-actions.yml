@@ -23,5 +23,3 @@ jobs:
              inlineScript: |
                Get-AzResourceGroup | Select ResourceGroupName
              azPSVersion: "latest"
-             # testing commit.
-             # testing commit again.
